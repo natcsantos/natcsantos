@@ -1,6 +1,6 @@
-## Hi there 👋 Welcome!
+## Hello 👋 Welcome!
 
-<b> :chart_with_upwards_trend: Estatísticas</b>:
+<b> :chart_with_upwards_trend: Statistics</b>:
 
 <a href="https://github.com/natcsantos">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=natcsantos&show_icons=true&theme=dark&include_commits=true"/>
