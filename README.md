@@ -6,9 +6,7 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=natcsantos&show_icons=true&theme=dark&include_commits=true"/>
 </a>
 
-<a href="https://github.com/natcsantos">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natcsantos&layout=compact&langs_count=8&theme=dark"/>
-</a>
+
 
 <!--
 **natcsantos/natcsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
