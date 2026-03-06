@@ -1,13 +1,4 @@
 ## Hello 👋 Welcome!
-
-<b> :chart_with_upwards_trend: Statistics</b>:
-
-<a href="https://github.com/natcsantos">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=natcsantos&show_icons=true&theme=dark&include_commits=true"/>
-</a>
-
-
-
 <!--
 **natcsantos/natcsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
